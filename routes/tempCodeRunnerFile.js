@@ -1,0 +1,1 @@
+app.use('/api/v1/users',router);//its a mounting the router 
